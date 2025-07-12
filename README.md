@@ -4,8 +4,8 @@ This project contains two versions of the classic Snake-Water-Gun game built in 
 
 ## 📂 Project Files
 
-- `version1_basic_logic.py` – Full logic written using if-elif blocks  
-- `version2_optimized.py` – Cleaner version using a subtraction-based pattern
+- `main.py` – Full logic written using if-elif blocks  
+- `mainshort.py` – Cleaner version using a subtraction-based pattern
 
 ## 🎮 Game Rules
 
@@ -25,6 +25,6 @@ This project contains two versions of the classic Snake-Water-Gun game built in 
 1. Clone or download this repo  
 2. Run in terminal using:
 ```bash
-python version1_basic_logic.py
+main.py
 # or
-python version2_optimized.py
+mainshort.py
